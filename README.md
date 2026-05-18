@@ -85,9 +85,8 @@ Streamlining employee records, attendance, payroll, and departmental workflows f
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s7nket&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s7nket&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s7nket&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 <br>
 
 <img src="https://streak-stats.demolab.com?user=s7nket&theme=github-dark&hide_border=true" />
