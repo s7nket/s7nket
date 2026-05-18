@@ -61,17 +61,6 @@ I'm a developer who builds end-to-end AI systems — from training and fine-tuni
 
 ### Projects
 
-**[⚡ Argus](https://github.com/s7nket/Argus)** — Real-time AI Surveillance System
-
-Real-time AI surveillance with multi-camera orchestration, live WebSocket streaming, and edge inference. Deployed on Oracle Cloud.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-
----
-
 **[🏛️ HIMSP](https://github.com/s7nket/HIMSP)** — Hardware Inventory Management System
 
 MERN-stack for digitalizing police armory operations with role-based access control and secure inventory tracking.
@@ -96,11 +85,10 @@ Streamlining employee records, attendance, payroll, and departmental workflows f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=s7nket&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7nket&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s7nket&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s7nket&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+<br>
 
 <img src="https://streak-stats.demolab.com?user=s7nket&theme=github-dark&hide_border=true" />
 
