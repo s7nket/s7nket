@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI+systems+end-to-end.;Applied+ML+%7C+Full-Stack+%7C+Edge+Inference.;From+model+weights+to+production+APIs." alt="Typing" />
 
-<img src="https://komarev.com/ghpvc/?username=s7nket&color=58a6ff&style=flat&label=profile+views" />
-
 </div>
 
 ---
