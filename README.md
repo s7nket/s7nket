@@ -1,76 +1,23 @@
-<div align="center">
+# Hi, I'm Sanket
 
-# Sanket · `@s7nket`
+Final-year Computer Science Engineering student at KLE College of Engineering & Technology (KLECET), Chikodi, affiliated with VTU. I build full-stack and AI-integrated systems, and I'm currently focused on landing an SDE role at a product-based company.
 
-> *Code and Caffeine*
+## What I'm working on
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI+systems+end-to-end.;Applied+ML+%7C+Full-Stack+%7C+Edge+Inference.;From+model+weights+to+production+APIs." alt="Typing" />
+**ARGUS** is my capstone project — a multi-agent AI debate platform with a dual-judge architecture. One judge (Nemotron 30B) produces natural-language verdicts; the other is a fine-tuned Llama 4B model I trained myself (LoRA/Unsloth on IBM argument-quality datasets) to score rounds numerically. The backend is FastAPI/WebSockets, the frontend is React/TypeScript/Vite, and the debate agents run on the Groq API. The accompanying IEEE paper has been submitted.
 
-</div>
+**AGM-HRMS** is a leave management system I co-built with a collaborator, now used by 100+ college staff. Built on React, Zustand, Vite, Tailwind, and Supabase — it replaced an earlier JSP/Tomcat/MySQL version we'd built together.
 
----
+**ReviewFlow** is a QR-based Google review redirect tool I built as the first product of a local-business automation concept. It's a full production system — FastAPI backend, SQLite, a React/Vite admin dashboard — live for its first client, a dental clinic in Belagavi.
 
-### About
+**Zeni** is an AI wellness platform for Indian youth, built on the Claude API. It uses a two-stage pipeline (HuggingFace emotion detection feeding into Claude) with a calibration mechanism for human-in-the-loop escalation on higher-risk conversations, and focuses on regional-language support for tier-2/3 users.
 
-I'm a developer who builds end-to-end AI systems — from training and fine-tuning language models to deploying them behind production APIs with real-time frontends. I care about the full stack: the model, the server, and the UI. Currently exploring applied ML, edge inference, and building things that actually ship.
+I also lead a 120+ member coding club at KLECET, organized into 12 teams, and I'm currently preparing a fresh AI/ML idea for Smart India Hackathon 2026.
 
-📍 Belgaum, Karnataka &nbsp;·&nbsp; ✉️ s7nket@gmail.com
+## Background
 
----
+I'm compulsively generative — I end up coding even when I'm not trying to. I like building things that keep working after I step back from them, and I work well collaboratively.
 
-### Deep Skills
+## Get in touch
 
-**AI & ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![TRL](https://img.shields.io/badge/TRL-555?style=flat&logoColor=white)
-![PEFT/LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-7F52FF?style=flat&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-22C55E?style=flat&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-4B5563?style=flat&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s7nket&theme=github_dark)
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=s7nket&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-<sub>Code and Caffeine &nbsp;·&nbsp; Built with intent &nbsp;·&nbsp; No fluff</sub>
-</div>
+I'm actively looking for SDE opportunities. Feel free to reach out.
