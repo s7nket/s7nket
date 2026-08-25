@@ -63,10 +63,6 @@ I'm a developer who builds end-to-end AI systems — from training and fine-tuni
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s7nket&theme=github_dark)
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=s7nket&theme=github-dark&hide_border=true" />
-
 </div>
 
 ---
